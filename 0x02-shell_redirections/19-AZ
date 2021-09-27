@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/in/bash
 tr 'A' 'c' | tr 'Z' 'e'
