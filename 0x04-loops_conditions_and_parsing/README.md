@@ -1,4 +1,4 @@
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/Vxotqyj.png)
 
 # 0x04. Loops, conditions and parsing
 
@@ -21,6 +21,15 @@
 | ------------ | ------------ | ------------ |
 | 0-RSA_public_key.pub | You will soon have to manage your own servers concept page hosted on remote data centers. We need to set them up with your RSA public key so that you can access them via SSH. | Mandatory |
 | 1-for_best_school | Write a Bash script that displays Best School 10 times. | Mandatory |
+
+------------
+
+## List of repository files:
+
+|  Point | own comments.  | level |
+| ------------ | ------------ | ------------ |
+| 0-RSA_public_key.pub | Creamos una llave que creo que quedo mal creada :V  | Mandatory |
+| 1-for_best_school | La misma monda que un for pero con diferente sintaxis | Mandatory |
 
 ------------
 
@@ -47,4 +56,4 @@
 ------------
 
 
-![](https://scontent.fbog4-1.fna.fbcdn.net/v/t39.30808-6/273623205_3099106633687379_7216100687296338286_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=YPwk5OFiqcUAX8zktrj&_nc_ht=scontent.fbog4-1.fna&oh=00_AT89cTJ6mcJToKsueWzppSi8ypUHbIbu9Ch8Pgd4C-wNkA&oe=620BA211)
+![](https://scontent.fbog4-1.fna.fbcdn.net/v/t39.30808-6/271153206_3074657909465585_6907762404450913633_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=DPFxC1wg0LkAX-PULpS&_nc_ht=scontent.fbog4-1.fna&oh=00_AT-7aF49a3-ThAgSU2ch0MBVSImH5gXD_YGNPLtK4rIg7Q&oe=62129E80)
