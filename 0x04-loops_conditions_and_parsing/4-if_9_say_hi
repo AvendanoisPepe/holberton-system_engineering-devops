@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times
+
+iterador=0
+
+while [ $iterador -lt 10 ];
+do
+    if [ $iterador -eq 9 ];
+    then
+        echo "Hi";
+    fi
+        echo "Best School";
+        iterador=$((iterador + 1))
+done

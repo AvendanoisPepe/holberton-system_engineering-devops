@@ -23,6 +23,7 @@
 | 1-for_best_school | Write a Bash script that displays Best School 10 times. | Mandatory |
 | 2-while_best_school | Write a Bash script that displays Best School 10 times. | Mandatory |
 | 3-until_best_school | Write a Bash script that displays Best School 10 times. |  Mandatory |
+| 4-if_9_say_hi | Write a Bash script that displays Best School 10 times, but for the 9th iteration, displays Best School and then Hi on a new line. | Mandatory |
 
 ------------
 
@@ -34,6 +35,7 @@
 | 1-for_best_school | La misma monda que un for pero con diferente sintaxis | Mandatory |
 | 2-while_best_school | Que feo es bash pero es lo mismo con una sintaxis muy cochina | Mandatory |
 | 3-until_best_school | Es la misma mierda pero mas fea | Mandatory |
+| 4-if_9_say_hi | Usando condicionales | Mandatory |
 
 ------------
 
