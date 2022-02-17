@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
 
-iterador=0
+iterador=10
 
-while [ $iterador -lt 10 ];
+until [ $iterador -lt 1 ];
 do
     echo "Best School";
-    iterador=$((iterador + 1))
+    iterador=$((iterador - 1))
 done

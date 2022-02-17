@@ -22,6 +22,7 @@
 | 0-RSA_public_key.pub | You will soon have to manage your own servers concept page hosted on remote data centers. We need to set them up with your RSA public key so that you can access them via SSH. | Mandatory |
 | 1-for_best_school | Write a Bash script that displays Best School 10 times. | Mandatory |
 | 2-while_best_school | Write a Bash script that displays Best School 10 times. | Mandatory |
+| 3-until_best_school | Write a Bash script that displays Best School 10 times. |  Mandatory |
 
 ------------
 
@@ -32,6 +33,7 @@
 | 0-RSA_public_key.pub | Creamos una llave que creo que quedo mal creada :V  | Mandatory |
 | 1-for_best_school | La misma monda que un for pero con diferente sintaxis | Mandatory |
 | 2-while_best_school | Que feo es bash pero es lo mismo con una sintaxis muy cochina | Mandatory |
+| 3-until_best_school | Es la misma mierda pero mas fea | Mandatory |
 
 ------------
 
