@@ -27,6 +27,7 @@
 | 5-dont_stop_me_now | We stopped our 4-to_infinity_and_beyond process using ctrl+c in the previous task, there is actually another way to do this. | Mandatory |
 | 6-stop_me_if_you_can | Write a Bash script that stops 4-to_infinity_and_beyond process. | Mandatory |
 | 7-highlander | Write a Bash script that displays: | Mandatory |
+| 8-beheaded_process | Write a Bash script that kills the process 7-highlander. | Mandatory |
 
 ------------
 
@@ -41,9 +42,8 @@
 | 4-to_infinity_and_beyond |Usar el comando de suspensión para agregar un retraso durante un período de tiempo específico. | Mandatory |
 | 5-dont_stop_me_now | Matamos el proceso del anterior ejercicio | Mandatory |
 | 6-stop_me_if_you_can | lo mismo que kill pero con p | Mandatory |
-| 7-highlander | se supone que con SIGTERM manda el mensaje
- | Mandatory |
-
+| 7-highlander | se supone que con SIGTERM manda el mensaje | Mandatory |
+| 8-beheaded_process | se elimina el proceso del ejericio anterior. | Mandatory |
 
 ------------
 

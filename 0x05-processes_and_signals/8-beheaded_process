@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#  se elimina el proceso del ejericio anterior.
+
+pkill -SIGKILL -f "7-highlander"
