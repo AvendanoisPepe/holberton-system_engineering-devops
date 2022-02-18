@@ -22,7 +22,7 @@
 | 0-what-is-my-pid | Write a Bash script that displays its own PID. | Mandatory |
 | 1-list_your_processes | Write a Bash script that displays a list of currently running processes. | Mandatory |
 | 2-show_your_bash_pid | Using your previous exercise command, write a Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process. | Mandatory |
-|  |  | Mandatory |
+| 3-show_your_bash_pid_made_easy | Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word bash. | Mandatory |
 |  |  | Mandatory |
 |  |  | Mandatory |
 |  |  | Mandatory |
@@ -37,7 +37,7 @@
 | 0-what-is-my-pid | Con echo imprimo el PID | Mandatory |
 | 1-list_your_processes | ps (process status) | Mandatory |
 | 2-show_your_bash_pid | gep: puedes buscar una palabra o patrón y se imprimirá la línea o líneas que la contengan. | Mandatory |
-|  |  | Mandatory |
+| 3-show_your_bash_pid_made_easy | Busca en la lista de procesos para localizar el PID a partir del nombre (similar a ps | grep), La opción -l le dice a pgrep que muestre el nombre del proceso junto con su ID: | Mandatory |
 |  |  | Mandatory |
 |  |  | Mandatory |
 |  |  | Mandatory |
@@ -52,6 +52,7 @@
 - https://www.thegeekstuff.com/2012/03/linux-signals-fundamentals/
 - https://www.thegeekstuff.com/2012/03/linux-processes-environment/
 - http://www.linfo.org/pid.html
+- https://www.hostinger.co/tutoriales/comando-grep-linux
 
 ------------
 

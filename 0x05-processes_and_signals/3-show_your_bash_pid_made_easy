@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Busca en la lista de procesos para localizar el PID a partir del nombre (similar a ps | grep)
+# La opción -l le dice a pgrep que muestre el nombre del proceso junto con su ID:
+
+pgrep -l  "bash"
