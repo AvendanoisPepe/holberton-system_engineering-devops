@@ -28,6 +28,8 @@
 | 6-superstitious_numbers | Write a Bash script that displays numbers from 1 to 20 and: | Mandatory | 
 | 7-clock | Write a Bash script that displays the time for 12 hours and 59 minutes: | Mandatory |
 | 8-for_ls | Write a Bash script that displays: | Mandatory |
+| 9-to_file_or_not_to_file | Write a Bash script that gives you information about the school file. | Mandatory |
+
 
 ------------
 
@@ -44,6 +46,7 @@
 | 6-superstitious_numbers | Usamos case en este caso | Mandatory |
 | 7-clock | Dos ciclos anidados | Mandatory |
 | 8-for_ls | Ya se me habia olvidado bash | Mandatory |
+| 9-to_file_or_not_to_file | Con multiples condicionales verificamos posibles estados del archivo school | Mandatory |
 
 ------------
 

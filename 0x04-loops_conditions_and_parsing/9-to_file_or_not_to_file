@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Con multiples condicionales verificamos posibles estados del archivo school
+
+archivo="school"
+if [ -e $archivo ];
+then
+    echo "$archivo file exists"
+    if [ -s $archivo ];
+    then
+        echo "$archivo file is not empty"
+    else
+        echo "$archivo file is empty"
+    fi
+    if [ -f  $archivo ];
+    then
+        echo "$archivo is a regular file"
+    fi
+else
+    echo "$archivo file does not exist"
+fi
