@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# grep: Cuando se usa la opción -f, el comando coincide con listas completas de argumentos.
+
+kill "$(pgrep -f ./4-to_infinity_and_beyond)"
