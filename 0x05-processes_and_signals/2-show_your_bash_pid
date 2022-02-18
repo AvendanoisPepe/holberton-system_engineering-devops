@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# grep puedes buscar una palabra o patrón y se imprimirá la línea o líneas que la contengan.
+
+ps -faux | grep "bash"

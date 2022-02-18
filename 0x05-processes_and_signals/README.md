@@ -21,7 +21,7 @@
 | ------------ | ------------ | ------------ |
 | 0-what-is-my-pid | Write a Bash script that displays its own PID. | Mandatory |
 | 1-list_your_processes | Write a Bash script that displays a list of currently running processes. | Mandatory |
-|  |  | Mandatory |
+| 2-show_your_bash_pid | Using your previous exercise command, write a Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process. | Mandatory |
 |  |  | Mandatory |
 |  |  | Mandatory |
 |  |  | Mandatory |
@@ -36,7 +36,7 @@
 | ------------ | ------------ | ------------ |
 | 0-what-is-my-pid | Con echo imprimo el PID | Mandatory |
 | 1-list_your_processes | ps (process status) | Mandatory |
-|  |  | Mandatory |
+| 2-show_your_bash_pid | gep: puedes buscar una palabra o patrón y se imprimirá la línea o líneas que la contengan. | Mandatory |
 |  |  | Mandatory |
 |  |  | Mandatory |
 |  |  | Mandatory |
