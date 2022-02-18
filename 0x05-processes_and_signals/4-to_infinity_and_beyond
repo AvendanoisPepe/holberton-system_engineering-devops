@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Un ciclo infinito,  usar el comando de suspensión para agregar un retraso durante un período de tiempo específico.
+
+while true;
+do
+    echo "To infinity and beyond"
+    sleep 2
+done
