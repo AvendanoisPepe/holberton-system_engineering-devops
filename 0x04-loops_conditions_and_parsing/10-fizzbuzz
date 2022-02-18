@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+# Con multiples condicionales verificamos posibles multiplos entre 3 y 5 para mandar cierto mensaje.
+
+iterador=1
+
+while [ $iterador -lt 101 ];
+do
+    if [ $(($iterador%15)) = 0 ];
+    then
+        echo "FizzBuzz"
+    elif [ $(($iterador%5)) = 0 ];
+    then
+        echo "Buzz"
+    elif [ $(($iterador%3)) = 0 ];
+    then
+        echo "Fizz"
+    else
+        echo "$iterador"
+    fi
+    iterador=$((iterador + 1))
+done

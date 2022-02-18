@@ -29,7 +29,7 @@
 | 7-clock | Write a Bash script that displays the time for 12 hours and 59 minutes: | Mandatory |
 | 8-for_ls | Write a Bash script that displays: | Mandatory |
 | 9-to_file_or_not_to_file | Write a Bash script that gives you information about the school file. | Mandatory |
-
+| 10-fizzbuzz | Write a Bash script that displays numbers from 1 to 100. | Mandatory |
 
 ------------
 
@@ -47,6 +47,7 @@
 | 7-clock | Dos ciclos anidados | Mandatory |
 | 8-for_ls | Ya se me habia olvidado bash | Mandatory |
 | 9-to_file_or_not_to_file | Con multiples condicionales verificamos posibles estados del archivo school | Mandatory |
+| 10-fizzbuzz | Con multiples condicionales verificamos posibles multiplos entre 3 y 5 para mandar cierto mensaje. | Mandatory |
 
 ------------
 
