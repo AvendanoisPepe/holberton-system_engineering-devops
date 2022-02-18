@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# ps (process status)
+
+ps -faux
