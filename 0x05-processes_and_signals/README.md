@@ -25,7 +25,7 @@
 | 3-show_your_bash_pid_made_easy | Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word bash. | Mandatory |
 | 4-to_infinity_and_beyond | Write a Bash script that displays To infinity and beyond indefinitely. | Mandatory |
 | 5-dont_stop_me_now | We stopped our 4-to_infinity_and_beyond process using ctrl+c in the previous task, there is actually another way to do this. | Mandatory |
-|  |  | Mandatory |
+| 6-stop_me_if_you_can | Write a Bash script that stops 4-to_infinity_and_beyond process. | Mandatory |
 |  |  | Mandatory |
 
 ------------
@@ -40,7 +40,7 @@
 | 3-show_your_bash_pid_made_easy | Busca en la lista de procesos para localizar el PID a partir del nombre (similar a ps | grep), La opción -l le dice a pgrep que muestre el nombre del proceso junto con su ID: | Mandatory |
 | 4-to_infinity_and_beyond |Usar el comando de suspensión para agregar un retraso durante un período de tiempo específico. | Mandatory |
 | 5-dont_stop_me_now | Matamos el proceso del anterior ejercicio | Mandatory |
-|  |  | Mandatory |
+| 6-stop_me_if_you_can | lo mismo que kill pero con p | Mandatory |
 |  |  | Mandatory |
 
 
