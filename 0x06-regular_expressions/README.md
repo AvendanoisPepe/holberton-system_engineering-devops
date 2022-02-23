@@ -26,6 +26,7 @@
 | 3-repetition_token_2.rb | Find the regular expression that will match the above cases | Mandatory |
 | 4-repetition_token_3.rb | Find the regular expression that will match the above cases | Mandatory |
 | 5-beginning_and_end.rb | The regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between | Mandatory |
+| 6-phone_number.rb | The regular expression must match a 10 digit phone number | Mandatory |
 
 ------------
 
@@ -39,6 +40,7 @@
 | 3-repetition_token_2.rb | Una o más repeticiones de lo que precede | Mandatory |
 | 4-repetition_token_3.rb | Cero o más repeticiones de lo que precede | Mandatory |
 | 5-beginning_and_end.rb | "." caracter unico | Mandatory |
+| 6-phone_number.rb | "^" conside con cualquier caracter excepto los nombrados | Mandatory |
 
 ------------
 
@@ -51,6 +53,7 @@
 - https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/
 - https://regexone.com/
 - https://intranet.hbtn.io/concepts/29
+- https://testingbaires.com/ruby-parte-7-expresiones-regulares/
 
 ------------
 
