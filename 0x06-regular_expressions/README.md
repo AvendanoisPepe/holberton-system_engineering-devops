@@ -25,6 +25,7 @@
 | 2-repetition_token_1.rb | Find the regular expression that will match the above cases | Mandatory |
 | 3-repetition_token_2.rb | Find the regular expression that will match the above cases | Mandatory |
 | 4-repetition_token_3.rb | Find the regular expression that will match the above cases | Mandatory |
+| 5-beginning_and_end.rb | The regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between | Mandatory |
 
 ------------
 
@@ -36,7 +37,8 @@
 | 1-repetition_token_0.rb | Evaluamos con {} para verificar el tamaño de la t | Mandatory |
 | 2-repetition_token_1.rb | "?" Al menos una repetición de lo que precede; es lo mismo que [0,1] | Mandatory |
 | 3-repetition_token_2.rb | Una o más repeticiones de lo que precede | Mandatory |
-| 4-repetition_token_3.rb | Una o más repeticiones de lo que precede | Mandatory |
+| 4-repetition_token_3.rb | Cero o más repeticiones de lo que precede | Mandatory |
+| 5-beginning_and_end.rb | "." caracter unico | Mandatory |
 
 ------------
 
