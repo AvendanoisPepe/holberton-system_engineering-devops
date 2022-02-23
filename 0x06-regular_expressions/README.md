@@ -21,6 +21,7 @@
 |  Point | What is done at this point? | level |
 | ------------ | ------------ | ------------ |
 | 0-simply_match_school.rb | The regular expression must match School | Mandatory |
+| 1-repetition_token_0.rb | Find the regular expression that will match the above cases | Mandatory |
 
 ------------
 
@@ -29,6 +30,7 @@
 |  Point | own comments.  | level |
 | ------------ | ------------ | ------------ |
 | 0-simply_match_school.rb | Se utiliza el ejemplo de la intranet | Mandatory |
+| 1-repetition_token_0.rb | Evaluamos con {} para verificar el tamaño de la t | Mandatory |
 
 ------------
 
