@@ -1,4 +1,4 @@
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220223T135549Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d177cedc61f4c74fbb390c83dd459ed24f1256e9fbde51b5c87e17abff0db7d9)
+![](https://assets.holbertonschool.com/media_images/files/000/001/208/thumb_1000/Screen_Shot_2020-02-25_at_12.56.14_PM.png)
 
 # 0x06. Regular expression
 
@@ -27,6 +27,7 @@
 | 4-repetition_token_3.rb | Find the regular expression that will match the above cases | Mandatory |
 | 5-beginning_and_end.rb | The regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between | Mandatory |
 | 6-phone_number.rb | The regular expression must match a 10 digit phone number | Mandatory |
+| 7-OMG_WHY_ARE_YOU_SHOUTING.rb | The regular expression must be only matching: capital letters | Mandatory |
 
 ------------
 
@@ -41,6 +42,7 @@
 | 4-repetition_token_3.rb | Cero o más repeticiones de lo que precede | Mandatory |
 | 5-beginning_and_end.rb | "." caracter unico | Mandatory |
 | 6-phone_number.rb | "^" conside con cualquier caracter excepto los nombrados | Mandatory |
+| 7-OMG_WHY_ARE_YOU_SHOUTING.rb | Especificación de rango. (p.e. [a-z] representa una letra en el rango de la a a la z | Mandatory |
 
 ------------
 
@@ -68,4 +70,4 @@
 ------------
 
 
-![](https://scontent.fbog4-1.fna.fbcdn.net/v/t39.30808-6/271153206_3074657909465585_6907762404450913633_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=DPFxC1wg0LkAX-PULpS&_nc_ht=scontent.fbog4-1.fna&oh=00_AT-7aF49a3-ThAgSU2ch0MBVSImH5gXD_YGNPLtK4rIg7Q&oe=62129E80)
+![](https://scontent.fbog4-1.fna.fbcdn.net/v/t39.30808-6/271153206_3074657909465585_6907762404450913633_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEn0UpbzRcQ2Ae21MFSDUf9LukYYF1i8rMu6RhgXWLys1wSqsTVajwLZ6tpcsbQWgkkYyTKL6CED6Cqcj2eFCL1&_nc_ohc=vjfGWp2YuwsAX-rBK3E&_nc_ht=scontent.fbog4-1.fna&oh=00_AT-6uEYadxbaLs1XZSdbQ2OcYwn3q8mQ8eXRkSMl-8fE2Q&oe=621A8780)
