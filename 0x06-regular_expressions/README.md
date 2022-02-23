@@ -23,6 +23,7 @@
 | 0-simply_match_school.rb | The regular expression must match School | Mandatory |
 | 1-repetition_token_0.rb | Find the regular expression that will match the above cases | Mandatory |
 | 2-repetition_token_1.rb | Find the regular expression that will match the above cases | Mandatory |
+| 3-repetition_token_2.rb | Find the regular expression that will match the above cases | Mandatory |
 
 ------------
 
@@ -33,6 +34,7 @@
 | 0-simply_match_school.rb | Se utiliza el ejemplo de la intranet | Mandatory |
 | 1-repetition_token_0.rb | Evaluamos con {} para verificar el tamaño de la t | Mandatory |
 | 2-repetition_token_1.rb | "?" Al menos una repetición de lo que precede; es lo mismo que [0,1] | Mandatory |
+| 3-repetition_token_2.rb | Una o más repeticiones de lo que precede | Mandatory |
 
 ------------
 
