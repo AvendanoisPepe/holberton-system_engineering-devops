@@ -25,6 +25,8 @@
 | 1-types_of_network | What type of network a computer in local is connected to?,  What type of network could connect an office in one building to another office in a building a few streets away?, What network do you use when you browse www.google.com from your smartphone (not connected to the Wifi)? | Mandatory |
 | 2-MAC_and_IP_address | What is a MAC address? , What is an IP address? | Mandatory |
 | 3-UDP_and_TCP | Which statement is correct for the TCP box:, Which statement is correct for the UDP box:, Which statement is correct for the TCP worker: | Mandatory |
+| 4-TCP_and_UDP_ports | Write a Bash script that displays listening ports: | Mandatory |
+
 
 
 
@@ -38,6 +40,7 @@
 | 1-types_of_network | 3.LAN, 2.WAN, 1.Internet | Mandatory |
 | 2-MAC_and_IP_address | 2.The unique identifier of a network interface, 1.Is to devices connected to a network what postal address is to houses | Mandatory |
 | 3-UDP_and_TCP | It is a protocol that is transferring data in a slow way but surely, It is a protocol that is transferring data in a fast way and might loss data along in the process, Have you received boxes x, y, z? | Mandatory |
+| 4-TCP_and_UDP_ports | netstat (network statistics) es una herramienta de línea de comandos que muestra un listado de las conexiones activas de una computadora, tanto entrantes como salientes. Existen versiones de este comando en varios sistemas como Unix, GNU/Linux, Mac OS X, Windows y BeOS. | Mandatory |
 
 ------------
 

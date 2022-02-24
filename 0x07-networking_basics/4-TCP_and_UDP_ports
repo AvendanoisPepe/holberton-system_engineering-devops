@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#listado de conexiones activas
+
+sudo netstat -lp
