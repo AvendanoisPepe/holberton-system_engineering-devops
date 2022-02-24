@@ -1,4 +1,4 @@
-![](https://assets.holbertonschool.com/media_images/files/000/001/208/thumb_1000/Screen_Shot_2020-02-25_at_12.56.14_PM.png)
+![](https://commotionwireless.net/files/CCK_Networking_Basics_Network_hub.png)
 
 # 0x07. Networking basics #0
 
@@ -26,9 +26,7 @@
 | 2-MAC_and_IP_address | What is a MAC address? , What is an IP address? | Mandatory |
 | 3-UDP_and_TCP | Which statement is correct for the TCP box:, Which statement is correct for the UDP box:, Which statement is correct for the TCP worker: | Mandatory |
 | 4-TCP_and_UDP_ports | Write a Bash script that displays listening ports: | Mandatory |
-
-
-
+| 5-is_the_host_on_the_network | Write a Bash script that pings an IP address passed as an argument. | Mandatory |
 
 ------------
 
@@ -41,6 +39,7 @@
 | 2-MAC_and_IP_address | 2.The unique identifier of a network interface, 1.Is to devices connected to a network what postal address is to houses | Mandatory |
 | 3-UDP_and_TCP | It is a protocol that is transferring data in a slow way but surely, It is a protocol that is transferring data in a fast way and might loss data along in the process, Have you received boxes x, y, z? | Mandatory |
 | 4-TCP_and_UDP_ports | netstat (network statistics) es una herramienta de línea de comandos que muestra un listado de las conexiones activas de una computadora, tanto entrantes como salientes. Existen versiones de este comando en varios sistemas como Unix, GNU/Linux, Mac OS X, Windows y BeOS. | Mandatory |
+| 5-is_the_host_on_the_network | usando la bandera -c hara el ping el numero de veces indicado | Mandatory |
 
 ------------
 
