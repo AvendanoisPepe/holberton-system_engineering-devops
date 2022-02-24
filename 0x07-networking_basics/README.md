@@ -22,6 +22,9 @@
 |  Point | What is done at this point? | level |
 | ------------ | ------------ | ------------ |
 | 0-OSI_model | What is the OSI model?, How is the OSI model organized? | Mandatory |
+| 1-types_of_network | What type of network a computer in local is connected to?,  What type of network could connect an office in one building to another office in a building a few streets away?, What network do you use when you browse www.google.com from your smartphone (not connected to the Wifi)? | Mandatory |
+
+
 
 ------------
 
@@ -30,6 +33,7 @@
 |  Point | own comments.  | level |
 | ------------ | ------------ | ------------ |
 | 0-OSI_model | 2.The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology, 2.From the lowest to the highest level | Mandatory |
+| 1-types_of_network | 3.LAN, 2.WAN, 1.Internet | Mandatory |
 
 ------------
 
