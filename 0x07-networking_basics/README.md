@@ -1,0 +1,54 @@
+![](https://assets.holbertonschool.com/media_images/files/000/001/208/thumb_1000/Screen_Shot_2020-02-25_at_12.56.14_PM.png)
+
+# 0x07. Networking basics #0
+
+------------
+
+## General
+
+- Allowed editors: vi, vim, emacs
+- All your files will be interpreted on Ubuntu 20.04 LTS
+- All your files should end with a new line
+- A README.md file, at the root of the folder of the project, is mandatory
+- All your Bash script files must be executable
+- Your Bash script must pass shellcheck without any error
+- The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
+- The second line of all your Bash scripts should be a comment explaining what is the script doing
+
+------------
+
+## List of poinst.
+
+|  Point | What is done at this point? | level |
+| ------------ | ------------ | ------------ |
+|  |  | Mandatory |
+
+------------
+
+## List of repository files:
+
+|  Point | own comments.  | level |
+| ------------ | ------------ | ------------ |
+|  |  | Mandatory |
+
+------------
+
+# Documentation:
+### Links:
+
+- 
+
+------------
+
+# Author
+
+
+## Juan Sebastian Avendaño Gonzalez:
+- Git: https://github.com/AvendanoisPepe
+- Twitter: https://twitter.com/Sebastian_Aven
+- Linkedin: https://www.linkedin.com/in/juan-sebastian-avenda%C3%B1o-gonz%C3%A1lez-8b1185200/
+
+------------
+
+
+![](https://scontent.fbog4-1.fna.fbcdn.net/v/t39.30808-6/271153206_3074657909465585_6907762404450913633_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEn0UpbzRcQ2Ae21MFSDUf9LukYYF1i8rMu6RhgXWLys1wSqsTVajwLZ6tpcsbQWgkkYyTKL6CED6Cqcj2eFCL1&_nc_ohc=vjfGWp2YuwsAX-rBK3E&_nc_ht=scontent.fbog4-1.fna&oh=00_AT-6uEYadxbaLs1XZSdbQ2OcYwn3q8mQ8eXRkSMl-8fE2Q&oe=621A8780)
