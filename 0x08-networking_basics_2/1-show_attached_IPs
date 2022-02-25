@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#script Bash que muestre todas las IP IPv4 activas en la máquina en la que se ejecuta.
+
+ifconfig | grep "inet "| cut -c 21- | cut -d " " -f1

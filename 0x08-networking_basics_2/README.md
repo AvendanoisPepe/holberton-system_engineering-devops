@@ -18,7 +18,7 @@
 |  Point | What is done at this point? | level |
 | ------------ | ------------ | ------------ |
 | 0-change_your_home_IP | Write a Bash script that configures an Ubuntu server with the below requirements. | Mandatory |
-| 1-show_attached_IPs |  | Mandatory |
+| 1-show_attached_IPs | Write a Bash script that displays all active IPv4 IPs on the machine it’s executed on. | Mandatory |
 
 ------------
 
@@ -27,7 +27,7 @@
 |  Point | own comments.  | level |
 | ------------ | ------------ | ------------ |
 | 0-change_your_home_IP | Seguir la instruccion de https://web.archive.org/web/20171117023601/http://blog.jonathanargentiero.com/docker-sed-cannot-rename-etcsedl8ysxl-device-or-resource-busy/ | Mandatory |
-| 1-show_attached_IPs |  | Mandatory |
+| 1-show_attached_IPs | Ifconfig se utiliza para configurar las interfaces de red residentes en el kernel. | Mandatory |
 
 ------------
 
@@ -39,6 +39,8 @@
 - https://www.makeuseof.com/tag/modify-manage-hosts-file-linux/
 - https://www.thegeekstuff.com/2012/04/nc-command-examples/
 - https://web.archive.org/web/20171117023601/http://blog.jonathanargentiero.com/docker-sed-cannot-rename-etcsedl8ysxl-device-or-resource-busy/
+- https://www.ionos.es/digitalguide/servidores/configuracion/comando-sed-de-linux/
+- https://linux.die.net/man/1/sed
 
 ------------
 
