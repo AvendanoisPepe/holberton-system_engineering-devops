@@ -19,6 +19,8 @@
 | ------------ | ------------ | ------------ | ------------ | 
 | 0-simple_web_stack | On a whiteboard, design a one server web infrastructure that hosts the website that is reachable via www.foobar.com. Start your explanation by having a user wanting to access your website. | Mandatory | https://imgur.com/a/9YBNJPZ | 
 | 1-distributed_web_infrastructure | On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com. | Mandatory | https://imgur.com/a/Ibgm3od |
+| 2-secured_and_monitored_web_infrastructure | On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com, it must be secured, serve encrypted traffic, and be monitored. | Mandatory | https://imgur.com/a/KlqOL9g | 
+
 
 ------------
 
@@ -43,7 +45,9 @@
 - https://www.youtube.com/watch?v=4Hcugh7z0cI
 - https://es.wikipedia.org/wiki/Servidor_de_aplicaciones
 - https://www.xataka.com/basics/que-es-un-proxy-y-como-puedes-utilizarlo-para-navegar-de-forma-mas-anonima
-
+- https://latam.kaspersky.com/resource-center/definitions/what-is-a-ssl-certificate
+- https://idgrup.com/firewall-que-es-y-como-funciona/
+- https://www.ibm.com/docs/en/storage-insights?topic=security-what-is-data-collector
 ------------
 
 # Author
