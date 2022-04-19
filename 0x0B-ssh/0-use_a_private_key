@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Conecta el server con la clave especifica
+ssh -i ~/.ssh/school ubuntu@3.94.192.97
