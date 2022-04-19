@@ -8,5 +8,5 @@ file_line { 'Esta mierda no funcuina':
 
 file_line {  'modo sad':
   path =>  '/etc/ssh/ssh_config',
-  line =>  'IdentityFile ~/.ssh/holberton',
+  line =>  'IdentityFile ~/.ssh/school',
 }
