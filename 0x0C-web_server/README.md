@@ -39,6 +39,8 @@
 - https://www.cyberciti.biz/faq/ubuntu-linux-gnome-system-log-viewer/
 - https://datatracker.ietf.org/doc/html/rfc7231
 - https://datatracker.ietf.org/doc/html/rfc7540
+- https://www.digitalocean.com/community/tutorials/how-to-create-temporary-and-permanent-redirects-with-nginx
+- https://www.gnu.org/software/sed/manual/sed.html
 
 ------------
 
