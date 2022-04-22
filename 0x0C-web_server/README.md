@@ -23,6 +23,10 @@
 | ------------ | ------------ | ------------ | 
 | 0-transfer_file | Write a Bash script that transfers a file from our client to a server: | Mandatory | 
 | 1-install_nginx_web_server |  | Mandatory |
+| 2-setup_a_domain_name | .TECH Domains is one of the top domain providers. They are known for the stability and quality of their DNS hosting solution. We partnered with .TECH Domains so that you can learn about DNS. | Mandatory |
+| 3-redirection | Configure your Nginx server so that /redirect_me is redirecting to another page. | Mandatory |
+| 4-not_found_page_404 | Configure your Nginx server to have a custom 404 page that contains the string Ceci n'est pas une page. | Mandatory |
+
 
 ------------
 
@@ -41,6 +45,7 @@
 - https://datatracker.ietf.org/doc/html/rfc7540
 - https://www.digitalocean.com/community/tutorials/how-to-create-temporary-and-permanent-redirects-with-nginx
 - https://www.gnu.org/software/sed/manual/sed.html
+- https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-to-use-custom-error-pages-on-ubuntu-14-04
 
 ------------
 
