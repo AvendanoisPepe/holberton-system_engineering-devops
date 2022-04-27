@@ -10,6 +10,6 @@ sed -i '/listen 80 default_server/ a\ \trewrite ^/redirect_me https://www.youtub
 
 sed -i "/listen 80 default_server/ a\  \terror_page 404 /custom_404.html;" /etc/nginx/sites-available/default
 
-sed -i "/listen 80 default_server/ a\ \tadd_header X-Server-By $HOSTNAME;" /etc/nginx/sites-available/default
+sed -i "/listen 80 default_server/ a\ \tadd_header X-Served-By $HOSTNAME;" /etc/nginx/sites-available/default
 
 sudo service nginx restart
