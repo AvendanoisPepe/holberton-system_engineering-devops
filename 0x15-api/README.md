@@ -1,4 +1,4 @@
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/313/frdkCrb.jpg)
+![](https://files.realpython.com/media/Consuming-APIs-in-Python_Watermarked.beb5a262ae01.jpg)
 
 # 0x15. API
 
