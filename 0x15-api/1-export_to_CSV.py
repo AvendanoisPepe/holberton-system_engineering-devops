@@ -1,23 +1,24 @@
 #!/usr/bin/python3
-"""Exports data in the CSV format"""
+"""Usando lo que hizo en la tarea #0, extienda su
+secuencia de comandos de Python para exportar
+datos en formato CSV."""
+
+import requests
+import sys
+import csv
 
 if __name__ == "__main__":
 
-    import csv
-    import requests
-    import sys
+    did = sys.argv[1]
+    url = requests.get("https://jsonplaceholder.typicode.com/users/{}"
+                       .format(did))
+    nombre = url.json().get('username')
+    todos = requests.get("https://jsonplaceholder.typicode.com/todos").json()
 
-    userId = sys.argv[1]
-    user = requests.get("https://jsonplaceholder.typicode.com/users/{}"
-                        .format(userId))
-    name = user.json().get('username')
-    todos = requests.get('https://jsonplaceholder.typicode.com/todos')
-
-    filename = userId + '.csv'
-    with open(filename, mode='w') as f:
-        writer = csv.writer(f, delimiter=',', quotechar='"',
+    with open('{}.csv'.format(did), mode="w") as archivo:
+        writer = csv.writer(archivo, delimiter=',', quotechar='"',
                             quoting=csv.QUOTE_ALL, lineterminator='\n')
-        for task in todos.json():
-            if task.get('userId') == int(userId):
-                writer.writerow([userId, name, str(task.get('completed')),
-                                 task.get('title')])
+        for tareas in todos:
+            if tareas.get('userId') == int(did):
+                writer.writerow([did, nombre, str(tareas.get('completed')),
+                                 tareas.get('title')])
