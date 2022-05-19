@@ -16,8 +16,8 @@ if __name__ == "__main__":
     todos = requests.get("https://jsonplaceholder.typicode.com/todos").json()
 
     with open('{}.csv'.format(did), mode="w") as archivo:
-        writer = csv.writer(archivo, delimiter=',', quoting=csv.QUOTE_ALL,
-                            lineterminator='\n', quotechar='"')
+        writer = csv.writer(archivo, delimiter=',', quotechar='"',
+                            quoting=csv.QUOTE_ALL, lineterminator='\n')
         for tareas in todos:
             if tareas.get('userId') == int(did):
                 writer.writerow([did, nombre, str(tareas.get('completed')),
