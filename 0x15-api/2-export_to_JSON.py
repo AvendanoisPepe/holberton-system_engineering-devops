@@ -7,7 +7,7 @@ if __name__ == "__main__":
     import requests
     import sys
     import json
-    
+
     did = sys.argv[1]
     url = requests.get("https://jsonplaceholder.typicode.com/users/{}"
                        .format(did))
