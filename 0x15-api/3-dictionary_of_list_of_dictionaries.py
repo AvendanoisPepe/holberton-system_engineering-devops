@@ -3,11 +3,10 @@
 de comandos de Python para exportar datos en formato
 JSON."""
 
-import requests
-import sys
-import json
-
 if __name__ == "__main__":
+    import requests
+    import sys
+    import json
 
     url = requests.get("https://jsonplaceholder.typicode.com/users").json()
     todos = requests.get("https://jsonplaceholder.typicode.com/todos").json()
