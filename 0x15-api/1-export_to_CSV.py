@@ -20,5 +20,5 @@ if __name__ == "__main__":
                             lineterminator='\n')
         for tareas in todos:
             if tareas.get('userId') == int(did):
-                writer.writerow([did, nombre, tareas.get('completed'),
+                writer.writerow([did, nombre, str(tareas.get('completed')),
                                  tareas.get('title')])
