@@ -3,11 +3,10 @@
 secuencia de comandos de Python para exportar
 datos en formato CSV."""
 
-import requests
-import sys
-import csv
-
 if __name__ == "__main__":
+    import requests
+    import sys
+    import csv
 
     did = sys.argv[1]
     url = requests.get("https://jsonplaceholder.typicode.com/users/{}"
