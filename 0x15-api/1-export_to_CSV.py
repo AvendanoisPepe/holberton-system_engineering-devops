@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
     with open('{}.csv'.format(did), mode="w") as archivo:
         writer = csv.writer(archivo, delimiter=',', quoting=csv.QUOTE_ALL,
-                            lineterminator='\n')
+                            lineterminator='\n', quotechar='"')
         for tareas in todos:
             if tareas.get('userId') == int(did):
                 writer.writerow([did, nombre, str(tareas.get('completed')),
