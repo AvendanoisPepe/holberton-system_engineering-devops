@@ -12,7 +12,7 @@ if __name__ == "__main__":
     did = sys.argv[1]
     url = requests.get("https://jsonplaceholder.typicode.com/users/{}"
                        .format(did))
-    nombre = url.json().get('name')
+    nombre = url.json().get('username')
     todos = requests.get("https://jsonplaceholder.typicode.com/todos").json()
 
     with open('{}.csv'.format(did), mode="w") as archivo:
