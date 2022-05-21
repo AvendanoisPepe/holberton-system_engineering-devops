@@ -15,12 +15,6 @@ def top_ten(subreddit):
                                 "User-Agent": "platform"},
                        allow_redirects=False)
 
-    url = requests.get("https://www.reddit.com/r/{}/about.json"
-                       .format(subreddit),
-                       headers={"Content-Type": "application/json",
-                                "User-Agent": "platform"},
-                       allow_redirects=False)
-
     if url.status_code == 200:
         for titulos in url.json().get("data").get("children"):
             print(titulos.get("data").get("title"))
