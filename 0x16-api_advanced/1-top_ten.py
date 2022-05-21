@@ -9,7 +9,7 @@ def top_ten(subreddit):
     """Solicitud de reddit api y respuesta del proceso"""
     import requests
 
-    url = requests.get("https://www.reddit.com/r/{}/top.json?limit=10"
+    url = requests.get("https://www.reddit.com/r/{}/hop.json?limit=10"
                        .format(subreddit),
                        headers={"Content-Type": "application/json",
                                 "User-Agent": "platform"},
